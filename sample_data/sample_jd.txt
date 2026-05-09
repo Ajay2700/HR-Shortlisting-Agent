@@ -1,0 +1,29 @@
+AI Enablement Intern — Job Description
+========================================
+
+Company: Travel Corporation India (TCI)
+Department: Office of the President and Country Head
+Location: Gurugram, India
+Type: Internship (2-3 months, possibility of extension)
+Stipend: INR 25,000 per month
+
+About TCI:
+Travel Corporation India (TCI), a subsidiary of the Thomas Cook Group, is India's leading Inbound Destination Management Company with 63+ years of excellence. TCI has 500+ travel professionals across 28 offices.
+
+Role Overview:
+We are seeking curious, hands-on, and technically exceptional AI Enablement Interns to support the integration of AI capabilities into existing in-house software systems.
+
+Required Qualifications:
+- Currently pursuing B.Tech (AI/ML specialization) or M.Tech (AI/ML)
+- Excellent, up-to-date knowledge of modern AI tools, frameworks, and technology stacks
+- Familiarity with LLMs and generative AI platforms: OpenAI GPT, Anthropic Claude, Google Gemini, or open-source alternatives
+- Hands-on experience with AI/ML frameworks: LangChain, LlamaIndex, Hugging Face Transformers
+- Knowledge of vector databases: Pinecone, Weaviate, FAISS
+- Understanding of RAG (Retrieval-Augmented Generation) architectures
+- Proficiency in Python (preferred), JavaScript, Java, or C#
+- Understanding of REST APIs, software integration, and application workflows
+- Familiarity with databases, data structures, and cloud infrastructure (AWS/Azure/GCP)
+- Strong analytical and problem-solving skills
+- Excellent written and verbal communication skills
+- High ownership, intellectual curiosity, proactive attitude
+- Ability to work in fast-paced, collaborative environments

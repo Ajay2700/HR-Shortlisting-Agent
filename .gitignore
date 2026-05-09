@@ -1,0 +1,33 @@
+# Environment
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Output
+output/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Cache
+.cache/
+llm_cache.db

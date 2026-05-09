@@ -1,0 +1,48 @@
+{
+  "name": "Karan Desai",
+  "headline": "Backend Developer | Python & Django | Learning ML",
+  "location": "Pune, India",
+  "email": "karan.desai@email.com",
+  "phone": "+91-8877665544",
+  "about": "Backend developer with 1 year of experience in Python and Django. Recently started learning machine learning and completed a few online courses. Interested in AI applications but limited hands-on experience with LLMs or agent frameworks.",
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "Freshworks",
+      "duration": "1 year",
+      "dates": "Jan 2025 - Dec 2025",
+      "description": "Developed REST APIs using Django and PostgreSQL. Built data pipelines with Celery. Contributed to CI/CD pipeline setup with Jenkins.",
+      "industry": "SaaS"
+    }
+  ],
+  "education": [
+    {
+      "school": "Pune University",
+      "degree": "B.Tech",
+      "fieldOfStudy": "Information Technology",
+      "dates": "2021 - 2025",
+      "gpa": "7.8/10"
+    }
+  ],
+  "skills": [
+    "Python", "Django", "PostgreSQL", "REST APIs", "Celery",
+    "Redis", "Docker", "Jenkins", "Git", "Linux",
+    "SQL", "Basic ML", "Pandas", "NumPy", "Communication"
+  ],
+  "certifications": [
+    "Coursera - Machine Learning by Andrew Ng"
+  ],
+  "projects": [
+    {
+      "name": "TaskManager API",
+      "description": "RESTful task management API with Django, featuring user authentication, task CRUD, and email notifications.",
+      "technologies": ["Django", "PostgreSQL", "Redis", "Docker"]
+    },
+    {
+      "name": "Sentiment Analyzer (Course Project)",
+      "description": "Basic sentiment analysis model using scikit-learn on IMDB reviews dataset. Achieved 85% accuracy.",
+      "technologies": ["Python", "Scikit-learn", "NLTK"]
+    }
+  ],
+  "languages": ["English", "Hindi", "Marathi"]
+}

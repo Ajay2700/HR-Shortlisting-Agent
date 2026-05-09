@@ -1,0 +1,65 @@
+{
+  "name": "Arjun Mehta",
+  "headline": "AI/ML Engineer | LangChain & RAG Specialist | B.Tech AI/ML",
+  "location": "New Delhi, India",
+  "email": "arjun.mehta@email.com",
+  "phone": "+91-9876543210",
+  "about": "Passionate AI/ML engineer with 1.5 years of hands-on experience building production-grade LLM applications. Specialized in RAG architectures, LangChain agent development, and vector database integrations. Active open-source contributor with a focus on making AI accessible and responsible.",
+  "experience": [
+    {
+      "title": "AI/ML Intern",
+      "company": "Infosys BPM",
+      "duration": "8 months",
+      "dates": "Jun 2025 - Jan 2026",
+      "description": "Developed RAG-based document Q&A system using LangChain and Pinecone. Built custom LLM agents for internal process automation. Implemented prompt engineering strategies reducing hallucination by 40%. Worked with GPT-4 and Claude APIs for multi-model evaluation.",
+      "industry": "IT Services"
+    },
+    {
+      "title": "Research Assistant",
+      "company": "IIT Delhi - AI Lab",
+      "duration": "6 months",
+      "dates": "Jan 2025 - Jun 2025",
+      "description": "Research on transformer architectures for low-resource languages. Published paper on efficient fine-tuning of LLMs. Built evaluation benchmarks for Hindi NLP models using Hugging Face.",
+      "industry": "Academic Research"
+    }
+  ],
+  "education": [
+    {
+      "school": "Delhi Technological University",
+      "degree": "B.Tech",
+      "fieldOfStudy": "Artificial Intelligence & Machine Learning",
+      "dates": "2022 - 2026",
+      "gpa": "8.9/10"
+    }
+  ],
+  "skills": [
+    "Python", "LangChain", "LlamaIndex", "RAG", "Pinecone", "FAISS",
+    "Hugging Face Transformers", "OpenAI GPT", "Claude API", "Google Gemini",
+    "Vector Databases", "Prompt Engineering", "FastAPI", "REST APIs",
+    "Docker", "AWS", "Git", "PyTorch", "TensorFlow", "Streamlit",
+    "SQL", "MongoDB", "Agile", "Communication", "Problem Solving"
+  ],
+  "certifications": [
+    "DeepLearning.AI - LangChain for LLM Application Development",
+    "AWS Cloud Practitioner",
+    "Google AI Essentials"
+  ],
+  "projects": [
+    {
+      "name": "IntelliDoc - RAG Document Assistant",
+      "description": "Production RAG system processing 10K+ documents with LangChain, Pinecone, and GPT-4. Features hybrid search, citation tracking, and multi-format support.",
+      "technologies": ["LangChain", "Pinecone", "GPT-4", "FastAPI", "React"]
+    },
+    {
+      "name": "AgentFlow - Multi-Agent Task Orchestrator",
+      "description": "LangGraph-based multi-agent system for automated research and report generation. Implements plan-and-execute architecture with tool-calling.",
+      "technologies": ["LangGraph", "CrewAI", "Google Gemini", "Streamlit"]
+    },
+    {
+      "name": "HindiBERT Fine-tuning Pipeline",
+      "description": "Custom fine-tuning pipeline for BERT models on Hindi NLP tasks. Achieved SOTA on Hindi sentiment classification benchmark.",
+      "technologies": ["Hugging Face", "PyTorch", "Weights & Biases"]
+    }
+  ],
+  "languages": ["English", "Hindi"]
+}

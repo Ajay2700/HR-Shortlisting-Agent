@@ -1,0 +1,40 @@
+{
+  "name": "Rahul Verma",
+  "headline": "Mechanical Engineering Student | CAD & Simulation | Aspiring Data Analyst",
+  "location": "Jaipur, India",
+  "email": "rahul.verma@email.com",
+  "phone": "+91-9000012345",
+  "about": "Final year mechanical engineering student with interest in data analytics. Basic exposure to Python through coursework. Looking for opportunities to transition into technology sector.",
+  "experience": [
+    {
+      "title": "Manufacturing Intern",
+      "company": "Tata Motors",
+      "duration": "3 months",
+      "dates": "May 2025 - Jul 2025",
+      "description": "Worked on production line optimization using lean manufacturing principles. Used Excel for data analysis and reporting.",
+      "industry": "Automotive Manufacturing"
+    }
+  ],
+  "education": [
+    {
+      "school": "Rajasthan Technical University",
+      "degree": "B.Tech",
+      "fieldOfStudy": "Mechanical Engineering",
+      "dates": "2022 - 2026",
+      "gpa": "7.1/10"
+    }
+  ],
+  "skills": [
+    "AutoCAD", "SolidWorks", "MATLAB", "Python (Basic)", "Excel",
+    "Manufacturing", "Quality Control", "Teamwork", "Communication"
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Automated Sorting Machine",
+      "description": "Built an Arduino-based automated sorting machine for a capstone project.",
+      "technologies": ["Arduino", "C++", "SolidWorks"]
+    }
+  ],
+  "languages": ["English", "Hindi"]
+}

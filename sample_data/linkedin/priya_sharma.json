@@ -1,0 +1,57 @@
+{
+  "name": "Priya Sharma",
+  "headline": "Full Stack Developer | React & Node.js | Cloud Enthusiast",
+  "location": "Bangalore, India",
+  "email": "priya.sharma@email.com",
+  "phone": "+91-9123456780",
+  "about": "Experienced full-stack developer with 2 years of experience building scalable web applications. Transitioning towards AI/ML with recent self-study in LLMs and prompt engineering. Strong foundation in software engineering and cloud deployments.",
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "Wipro Technologies",
+      "duration": "1 year 6 months",
+      "dates": "Jul 2024 - Dec 2025",
+      "description": "Built microservices with Node.js and deployed on AWS ECS. Developed React dashboards for internal analytics. Started exploring AI integration with OpenAI API for chatbot features.",
+      "industry": "IT Services"
+    },
+    {
+      "title": "Web Development Intern",
+      "company": "Zoho Corporation",
+      "duration": "6 months",
+      "dates": "Jan 2024 - Jun 2024",
+      "description": "Developed frontend components in React. Built REST APIs with Java Spring Boot. Participated in Agile sprints.",
+      "industry": "SaaS"
+    }
+  ],
+  "education": [
+    {
+      "school": "National Institute of Technology, Trichy",
+      "degree": "B.Tech",
+      "fieldOfStudy": "Computer Science & Engineering",
+      "dates": "2020 - 2024",
+      "gpa": "8.2/10"
+    }
+  ],
+  "skills": [
+    "JavaScript", "React", "Node.js", "Python", "Java", "Spring Boot",
+    "AWS", "Docker", "Kubernetes", "REST APIs", "SQL", "MongoDB",
+    "Git", "OpenAI API", "Prompt Engineering", "Agile", "Communication"
+  ],
+  "certifications": [
+    "AWS Solutions Architect Associate",
+    "Meta React Developer Certificate"
+  ],
+  "projects": [
+    {
+      "name": "CloudDash - Real-time Analytics Dashboard",
+      "description": "Full-stack analytics dashboard with React, Node.js, and AWS. Features real-time data streaming and visualization.",
+      "technologies": ["React", "Node.js", "AWS Lambda", "DynamoDB"]
+    },
+    {
+      "name": "ChatBot POC",
+      "description": "Simple chatbot using OpenAI API with basic conversation memory. Built as a personal learning project.",
+      "technologies": ["Python", "OpenAI API", "Streamlit"]
+    }
+  ],
+  "languages": ["English", "Hindi", "Tamil"]
+}

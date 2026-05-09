@@ -1,0 +1,72 @@
+{
+  "name": "Sneha Iyer",
+  "headline": "Data Scientist | NLP & Computer Vision | M.Tech AI/ML",
+  "location": "Hyderabad, India",
+  "email": "sneha.iyer@email.com",
+  "phone": "+91-9988776655",
+  "about": "M.Tech student specializing in AI/ML with research focus on NLP and computer vision. Published in top-tier conferences. Strong theoretical foundation with growing practical experience in LLM applications and agent frameworks.",
+  "experience": [
+    {
+      "title": "Data Science Intern",
+      "company": "Microsoft India Development Center",
+      "duration": "6 months",
+      "dates": "Jul 2025 - Dec 2025",
+      "description": "Worked on Azure OpenAI integrations for enterprise clients. Built a semantic search system using FAISS and Sentence Transformers. Developed evaluation pipelines for LLM outputs.",
+      "industry": "Technology"
+    },
+    {
+      "title": "ML Research Intern",
+      "company": "Google Research India",
+      "duration": "4 months",
+      "dates": "Jan 2025 - Apr 2025",
+      "description": "Contributed to Gemini model evaluation. Researched prompt optimization techniques. Published findings on few-shot learning with LLMs.",
+      "industry": "Technology"
+    }
+  ],
+  "education": [
+    {
+      "school": "International Institute of Information Technology, Hyderabad",
+      "degree": "M.Tech",
+      "fieldOfStudy": "Artificial Intelligence & Machine Learning",
+      "dates": "2024 - 2026",
+      "gpa": "9.2/10"
+    },
+    {
+      "school": "Birla Institute of Technology & Science, Pilani",
+      "degree": "B.E.",
+      "fieldOfStudy": "Computer Science",
+      "dates": "2020 - 2024",
+      "gpa": "8.7/10"
+    }
+  ],
+  "skills": [
+    "Python", "PyTorch", "TensorFlow", "Hugging Face", "LangChain",
+    "FAISS", "Sentence Transformers", "OpenAI API", "Azure OpenAI",
+    "Google Gemini", "NLP", "Computer Vision", "RAG", "REST APIs",
+    "Docker", "GCP", "SQL", "MongoDB", "Scikit-learn", "Pandas",
+    "Git", "LaTeX", "Research", "Leadership", "Presentation"
+  ],
+  "certifications": [
+    "Google Cloud Professional ML Engineer",
+    "Stanford Online - Machine Learning Specialization",
+    "Hugging Face NLP Course"
+  ],
+  "projects": [
+    {
+      "name": "EnterpriseQA - RAG for Compliance Docs",
+      "description": "Enterprise-grade RAG system for compliance document Q&A. Uses hybrid retrieval with BM25 + dense embeddings. Deployed on Azure with authentication and audit logging.",
+      "technologies": ["LangChain", "Azure OpenAI", "FAISS", "FastAPI", "Azure"]
+    },
+    {
+      "name": "VisionAssist - Multimodal AI Assistant",
+      "description": "Multimodal assistant combining vision and language models for accessibility. Published at AAAI 2025 workshop.",
+      "technologies": ["GPT-4V", "CLIP", "PyTorch", "Gradio"]
+    },
+    {
+      "name": "LLM Evaluation Framework",
+      "description": "Open-source framework for evaluating LLM responses on factuality, toxicity, and coherence. 200+ GitHub stars.",
+      "technologies": ["Python", "Hugging Face", "Weights & Biases"]
+    }
+  ],
+  "languages": ["English", "Hindi", "Telugu"]
+}
