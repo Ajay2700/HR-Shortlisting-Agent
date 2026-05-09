@@ -140,3 +140,4 @@ hr-shortlisting-agent/
 
 - `app.py` (Streamlit) is kept as legacy UI; React + FastAPI is the primary path.
 - Add `.env` to git ignore and never commit secrets.
+# HR-Shortlisting-Agent
