@@ -10,6 +10,11 @@ Production-style AI shortlisting pipeline with:
 
 ## Features
 
+
+<img width="1908" height="1078" alt="Screenshot 2026-05-09 150035" src="https://github.com/user-attachments/assets/61c4db54-9d9b-4bb9-8cd2-19064cb13645" />
+<img width="1909" height="1037" alt="Screenshot 2026-05-09 150143" src="https://github.com/user-attachments/assets/8987a5db-2033-42df-8e87-00dd5789aa15" />
+
+
 - Parse Job Description from text / TXT / PDF / DOCX
 - Parse resumes from PDF/DOCX + LinkedIn profile JSON
 - Score each candidate on 5 weighted dimensions
